@@ -1,3 +1,5 @@
+# Project Euler --> https://projecteuler.net/problem=3
+# Problem 3 : Largest prime factor
 # Finding the largest prime factor of the number 600851475143
 allfactors =[]
 prime_factors = []

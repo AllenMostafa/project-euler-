@@ -1,3 +1,6 @@
+# Project Euler --> https://projecteuler.net/problem=2
+# Problem 2 : Even Fibonacci numbers
+# Find the sum of the even-valued terms of Fibonacci sequence whose values do not exceed four million.
 fib = [1,2]
 fib_even = [2]
 last = 0

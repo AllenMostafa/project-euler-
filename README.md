@@ -1,2 +1,3 @@
 # project-euler-
-Solving project euler problems archives using python 
+
+Solving Project Euler problems using python
